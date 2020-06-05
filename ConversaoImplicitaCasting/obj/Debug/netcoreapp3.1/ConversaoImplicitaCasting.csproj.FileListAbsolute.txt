@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.exe
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.deps.json
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.dll
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\bin\Debug\netcoreapp3.1\ConversaoImplicitaCasting.pdb
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaCasting.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaCasting.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaCasting.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaCasting.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaCasting.dll
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaCasting.pdb
+C:\Users\aalima5\Desktop\Code C#\ConversaoImplicitaCasting\ConversaoImplicitaCasting\obj\Debug\netcoreapp3.1\ConversaoImplicitaCasting.genruntimeconfig.cache
